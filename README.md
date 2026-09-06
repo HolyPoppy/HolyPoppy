@@ -1,11 +1,11 @@
 <img src="./e2b68f0940fd4ce71be971704202af5a.jpg" width="800" height="200">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&repeat=false&width=435&lines=iae;julioGaumer+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&repeat=false&width=435&lines=iae;HolyJobberson+here)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=High+school+student;Studying+Information+Technology)](https://git.io/typing-svg)
 
 
-## Aqui eu manjo
+## O piorzin que ta tendo
 
 <div align="left">
 
@@ -33,7 +33,7 @@ Projeto desenvolvido para facilitar o contato entre pessoas e profissionais da �
 
 ## Gostos
 
-Tetris, Persona e Bangers 👍
+LOl 👍
 <div align="center">
 <img src="./nightmare.jpg" width="800"> 
 </div>
