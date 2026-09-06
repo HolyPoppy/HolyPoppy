@@ -1,16 +1,39 @@
-## Hi there 👋 oakluisdhfcouaehfaoi
+<img src="./widepsy.jpg" width="800" height="150">
 
-<!--
-**HolyPoppy/HolyPoppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&repeat=false&width=435&lines=iae;julioGaumer+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&width=435&lines=High+school+student;Studying+Information+Technology)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Aqui eu manjo
+
+<div align="left">
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+</div>
+
+## Aprendendno
+
+* Desenvolvimento Web
+* Banco de Dados
+* C#
+* JavaScript
+
+## Projetos em destaque
+
+### 💬 EmotiHub
+
+Projeto desenvolvido para facilitar o contato entre pessoas e profissionais da área de psicologia, utilizando uma plataforma web.
+
+## Gostos
+
+Tetris, Persona e Bangers 👍
+<div align="center">
+<img src="./nightmare.jpg" width="800"> 
+</div>
