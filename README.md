@@ -1,4 +1,4 @@
-<img src="./[widepsy.jpg](https://github.com/HolyPoppy/HolyPoppy/blob/main/04c63bbdad423b6fd4343b94c94a041a.jpg)" width="800" height="150">
+<img src="./e2b68f0940fd4ce71be971704202af5a.jpg" width="800" height="150">
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&repeat=false&width=435&lines=iae;julioGaumer+here)](https://git.io/typing-svg)
